@@ -1,4 +1,4 @@
-In this repository, algorithms developed for the realization of logic functions using switching lattices and logic functions used as benchmarks can be found. There exist three algorithms, namely JANUS, MEDEA, and MT_TOOL. 
+In this repository, algorithms developed for the realization of logic functions using switching lattices and logic functions used as benchmarks can be found. There exist three algorithms, namely JANUS, MEDEA, and MF_TOOL. 
 
 JANUS is an approximate algorithm that aims to find the realization of a logic function on a switching lattice including a number of four-terminal switches close to the minimum. 
 
