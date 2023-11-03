@@ -4,9 +4,7 @@ The LS_algos directory includes the algorithms proposed for the lattice synthesi
 
 On the other hand, the LSDC_algos directory includes the algorithms proposed for the lattice synthesis under a delay constraint (LS_DC) problem which is defined as finding a realization of a logic function on a lattice which has the minimum number of switches without violating the delay constraint given in terms of the number of switches in the critical path. While PHAEDRA is an approximate algorithm, TROADES is a divide&conquer method similar to JANUS and MEDEA, respectively.
 
-The detailed descriptions of these algorithms are given in the README files.
-
-For citation please use the following:
+The detailed descriptions of these algorithms are given in the README files and the following publications.
 
 @ARTICLE{aksoy21,
   author={Aksoy, Levent and Akkan, Nihat and Sedef, Herman and Altun, Mustafa},
